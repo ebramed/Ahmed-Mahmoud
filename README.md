@@ -1,6 +1,5 @@
 # Ahmed-Mahmoud
 
-
 # Github_Project
 
 ## TeamMembers:
@@ -12,4 +11,3 @@ a website that provides course services for students
 and is easy to reach*
 
 ![githubProjectImage](https://i.imgur.com/ZaUBYdm.png)
-
